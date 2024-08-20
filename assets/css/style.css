@@ -1,0 +1,27 @@
+
+   
+body{
+    background-color: black;
+}
+
+.user-info img{
+    width: 100px;
+    border-radius: 50%;
+    margin: 25px 20px 20px 20px;
+}
+
+.user-info h3{
+    color: white;
+    margin: 20px;
+    
+}
+.user-info p{
+   margin-right: 10px;
+   
+    align-self: center;
+    
+}
+
+.form-group, .card{
+    background-color: blueviolet;
+}
